@@ -1,0 +1,5 @@
+Credentials cache: API:DDFF704D-A6D6-4B82-9D10-A5B150CB833E
+        Principal: oouazize@1337.MA
+
+  Issued                Expires               Principal
+Aug  4 09:08:49 2021  Aug 11 09:08:49 2021  krbtgt/1337.MA@1337.MA
